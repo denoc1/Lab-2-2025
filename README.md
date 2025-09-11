@@ -12,6 +12,7 @@
 
 2. **Define Variables**  
    Create the following variables in your program:
+   - `String studentName` - set it up to any name.
    - `int studentID` – set it to a made-up 6-digit number.  
    - `int creditsEarned` – set it to a reasonable number (e.g., 45).  
    - `int creditsThisSemester` – set it to a reasonable number (e.g., 15).  
@@ -19,11 +20,11 @@
    - `boolean isOnHonorRoll` – set it to `true` or `false`.  
    - `int totalCreditsRequired` – set it to a realistic graduation requirement (e.g., 120).
 
-3. **Print Variables**  
+4. **Print Variables**  
    Print each variable with a label.
 
    
-4. **Perform a Calculation**  
+5. **Perform a Calculation**  
 Calculate the total credits the student has after this semester and store in a new variable, `int totalCredits`
 
   Then calculate the number of credits left to graduate.
@@ -36,6 +37,7 @@ Calculate the total credits the student has after this semester and store in a n
   - Use spaces or line breaks for readability.
   - Use only int, double, and boolean types (no Strings for this assignment).
 ```java
+Student Name:  Charlie Williams
 Student ID: 123456
 Credits Earned: 45
 Credits This Semester: 15
